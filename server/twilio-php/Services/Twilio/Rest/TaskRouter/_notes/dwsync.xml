@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Activity.php" server="em.wesst.ca" local="131043673710000000" remote="131043673710000000" Dst="2" />
+<file name="Activities.php" server="em.wesst.ca" local="131043673710000000" remote="131043673710000000" Dst="2" />
+<file name="Event.php" server="em.wesst.ca" local="131043673710000000" remote="131043673710000000" Dst="2" />
+<file name="Events.php" server="em.wesst.ca" local="131043673710000000" remote="131043673710000000" Dst="2" />
+<file name="Reservation.php" server="em.wesst.ca" local="131043673720000000" remote="131043673720000000" Dst="2" />
+<file name="Reservations.php" server="em.wesst.ca" local="131043673720000000" remote="131043673720000000" Dst="2" />
+<file name="Statistics.php" server="em.wesst.ca" local="131043673720000000" remote="131043673720000000" Dst="2" />
+<file name="Task.php" server="em.wesst.ca" local="131043673720000000" remote="131043673720000000" Dst="2" />
+<file name="TaskQueue.php" server="em.wesst.ca" local="131043673720000000" remote="131043673720000000" Dst="2" />
+<file name="TaskQueues.php" server="em.wesst.ca" local="131043673720000000" remote="131043673720000000" Dst="2" />
+<file name="TaskQueuesStatistics.php" server="em.wesst.ca" local="131043673720000000" remote="131043673720000000" Dst="2" />
+<file name="TaskQueueStatistics.php" server="em.wesst.ca" local="131043673720000000" remote="131043673720000000" Dst="2" />
+<file name="Tasks.php" server="em.wesst.ca" local="131043673730000000" remote="131043673730000000" Dst="2" />
+<file name="Worker.php" server="em.wesst.ca" local="131043673730000000" remote="131043673730000000" Dst="2" />
+<file name="Workers.php" server="em.wesst.ca" local="131043673730000000" remote="131043673730000000" Dst="2" />
+<file name="WorkersStatistics.php" server="em.wesst.ca" local="131043673730000000" remote="131043673730000000" Dst="2" />
+<file name="WorkerStatistics.php" server="em.wesst.ca" local="131043673730000000" remote="131043673730000000" Dst="2" />
+<file name="Workflow.php" server="em.wesst.ca" local="131043673730000000" remote="131043673730000000" Dst="2" />
+<file name="Workflows.php" server="em.wesst.ca" local="131043673730000000" remote="131043673730000000" Dst="2" />
+<file name="WorkflowStatistics.php" server="em.wesst.ca" local="131043673740000000" remote="131043673740000000" Dst="2" />
+<file name="Workspace.php" server="em.wesst.ca" local="131043673740000000" remote="131043673740000000" Dst="2" />
+<file name="Workspaces.php" server="em.wesst.ca" local="131043673740000000" remote="131043673740000000" Dst="2" />
+<file name="WorkspaceStatistics.php" server="em.wesst.ca" local="131043673740000000" remote="131043673740000000" Dst="2" />
+</dwsync>

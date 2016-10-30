@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AutoPagingIterator.php" server="em.wesst.ca" local="131043673200000000" remote="131043673200000000" Dst="2" />
+<file name="AccessToken.php" server="em.wesst.ca" local="131043673200000000" remote="131043673200000000" Dst="2" />
+<file name="Capability.php" server="em.wesst.ca" local="131043673200000000" remote="131043673200000000" Dst="2" />
+<file name="CapabilityAPI.php" server="em.wesst.ca" local="131043673200000000" remote="131043673200000000" Dst="2" />
+<file name="CapabilityTaskRouter.php" server="em.wesst.ca" local="131043673210000000" remote="131043673210000000" Dst="2" />
+<file name="ConversationsInstanceResource.php" server="em.wesst.ca" local="131043673210000000" remote="131043673210000000" Dst="2" />
+<file name="ConversationsListResource.php" server="em.wesst.ca" local="131043673210000000" remote="131043673210000000" Dst="2" />
+<file name="HttpException.php" server="em.wesst.ca" local="131043673210000000" remote="131043673210000000" Dst="2" />
+<file name="HttpStream.php" server="em.wesst.ca" local="131043673210000000" remote="131043673210000000" Dst="2" />
+<file name="InstanceResource.php" server="em.wesst.ca" local="131043673210000000" remote="131043673210000000" Dst="2" />
+<file name="IPMessagingInstanceResource.php" server="em.wesst.ca" local="131043673220000000" remote="131043673220000000" Dst="2" />
+<file name="IPMessagingListResource.php" server="em.wesst.ca" local="131043673220000000" remote="131043673220000000" Dst="2" />
+<file name="JWT.php" server="em.wesst.ca" local="131043673220000000" remote="131043673220000000" Dst="2" />
+<file name="ListResource.php" server="em.wesst.ca" local="131043673220000000" remote="131043673220000000" Dst="2" />
+<file name="LookupsInstanceResource.php" server="em.wesst.ca" local="131043673220000000" remote="131043673220000000" Dst="2" />
+<file name="LookupsListResource.php" server="em.wesst.ca" local="131043673220000000" remote="131043673220000000" Dst="2" />
+<file name="MonitorInstanceResource.php" server="em.wesst.ca" local="131043673230000000" remote="131043673230000000" Dst="2" />
+<file name="MonitorListResource.php" server="em.wesst.ca" local="131043673230000000" remote="131043673230000000" Dst="2" />
+<file name="NextGenInstanceResource.php" server="em.wesst.ca" local="131043673230000000" remote="131043673230000000" Dst="2" />
+<file name="NextGenListResource.php" server="em.wesst.ca" local="131043673230000000" remote="131043673230000000" Dst="2" />
+<file name="NumberType.php" server="em.wesst.ca" local="131043673230000000" remote="131043673230000000" Dst="2" />
+<file name="Page.php" server="em.wesst.ca" local="131043673230000000" remote="131043673230000000" Dst="2" />
+<file name="PartialApplicationHelper.php" server="em.wesst.ca" local="131043673230000000" remote="131043673230000000" Dst="2" />
+<file name="PricingInstanceResource.php" server="em.wesst.ca" local="131043673240000000" remote="131043673240000000" Dst="2" />
+<file name="PricingListResource.php" server="em.wesst.ca" local="131043673240000000" remote="131043673240000000" Dst="2" />
+<file name="RequestValidator.php" server="em.wesst.ca" local="131043673240000000" remote="131043673240000000" Dst="2" />
+<file name="Resource.php" server="em.wesst.ca" local="131043673240000000" remote="131043673240000000" Dst="2" />
+<file name="RestException.php" server="em.wesst.ca" local="131043673240000000" remote="131043673240000000" Dst="2" />
+<file name="SIPListResource.php" server="em.wesst.ca" local="131043673240000000" remote="131043673240000000" Dst="2" />
+<file name="TaskRouterInstanceResource.php" server="em.wesst.ca" local="131043673250000000" remote="131043673250000000" Dst="2" />
+<file name="TaskRouterListResource.php" server="em.wesst.ca" local="131043673250000000" remote="131043673250000000" Dst="2" />
+<file name="TimeRangeResource.php" server="em.wesst.ca" local="131043673250000000" remote="131043673250000000" Dst="2" />
+<file name="TinyHttp.php" server="em.wesst.ca" local="131043673250000000" remote="131043673250000000" Dst="2" />
+<file name="TrunkingInstanceResource.php" server="em.wesst.ca" local="131043673250000000" remote="131043673250000000" Dst="2" />
+<file name="TrunkingListResource.php" server="em.wesst.ca" local="131043673250000000" remote="131043673250000000" Dst="2" />
+<file name="Twiml.php" server="em.wesst.ca" local="131043673250000000" remote="131043673250000000" Dst="2" />
+<file name="UsageResource.php" server="em.wesst.ca" local="131043673250000000" remote="131043673250000000" Dst="2" />
+<file name="WorkflowConfiguration.php" server="em.wesst.ca" local="131043673260000000" remote="131043673260000000" Dst="2" />
+</dwsync>
